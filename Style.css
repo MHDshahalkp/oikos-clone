@@ -1,0 +1,814 @@
+*{
+    margin: 0%;
+}
+.mainpage{
+    width: 100%px;
+    height: 5000px;
+    background-color: black;
+}
+.firstnav{
+    width: 100%;
+    height: 75px;
+    background-color: white;
+    position: fixed;
+    z-index: 3;
+}
+.logoimagesize{
+    height: 60px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.firstleft{
+    width: 150px;
+    height: 32px;
+    background-color: white;
+    margin-left: 1025px;
+    margin-top: -55px;
+    border: 3px solid black;
+}
+.firstleft:hover{
+    background-color: black;
+}
+.firstleft:hover .size{
+    color: white;
+}
+.size{
+   font-family: 'Arial', sans-serif;
+   font-weight: 700;
+   font-size: 14.5px;
+   line-height: 35px;
+   padding-left: 20px;
+   color: black;
+}
+.search{
+    margin-left: 1220px;
+   position: relative;
+   top: -30px;
+   color: black;
+}
+.manu{
+    margin-left: 1220px;
+    position: relative;
+    top: -60px;
+    color: black;
+    margin-left: 1270px;
+}
+.firstmainphoto{
+    width: 100%;
+}
+.firstmaindiv{
+    width: 1345px;
+    height: 600px;
+    background-color: black;
+}
+.firstphoto{
+    width: 1348px;
+}
+.testmeet{
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-weight: 1000;
+    font-size: 65px;
+    color: white;
+}
+.imageintestfirst{
+    margin-top: -580px;
+    margin-left: 110px;
+}
+.imageintestsecond{
+    margin-left: 100px;
+    margin-top: -20px;
+}
+.testfamily{
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+    font-weight: bold;
+    font-size: 180px;
+    color: transparent;
+    text-align: 2px;
+    -webkit-text-stroke: 2px #FFFFFF;
+    letter-spacing: 2px;
+}
+.testproduct{
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 19px;
+    color: white;
+    line-height: 40px;
+    padding-left: 30px;
+}
+.imageintestthree{
+    width: 200px;
+    height: 40px;
+    background-color: transparent;
+    margin-top: -200px;
+    position: absolute;
+    margin-left: 113px;
+    margin-top: 50px;
+    border: 3px solid white;
+}
+.imageintestthree:hover{
+    background-color: white;
+}
+.testproduct:hover{
+    color: black;
+}
+.secondmainphoto{
+    width: 100%;
+    height: 450px;
+    background-color: black;
+}
+.protein{
+    color: white;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 39.5px;
+    font-weight: 900;
+}
+.secondimagetest{
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 400px;
+}
+.secondfirstmainphotosize{
+    width: 200px;
+    padding-top: 200px;
+    position: relative;
+    left: 90px;
+}
+.secondfirstimagetext{
+    color: white;
+    position: absolute;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 15px;
+    padding-left: 110px;
+}
+.secondscondmainphotosize{
+    width: 200px;
+    position: relative;
+    left: 320px;
+    margin-top: -100px;
+}
+.secondsecondimage{
+    margin-top: -70px;
+}
+.secondscondphototext{
+    color: aliceblue;
+}
+.secondsecondimagetext{
+    margin-top: 1px;
+    margin-left: 370px;
+}
+.secondthirdimagesize{
+    width: 200px;    
+}
+.secondthirdimage{
+    margin-left: 525px;
+    margin-top: -190px;
+}
+.secondimagephototext{
+    color: white;
+}
+.secondthirdimagetext{
+    margin-left:535px
+}
+.secondfourimagesize{
+    width: 200px;
+    padding-left: 750px;
+}
+.secondfourimage{
+    margin-top: -195px;
+}
+.secondfourphototext{
+    color: white;
+}
+.secondfourimagetext{
+   margin-left: 770px; 
+}
+.secondfiveimagesize{
+    width: 180px;
+}
+.secondfiveimage{
+    margin-left: 1000px;
+    margin-top: -179px;
+}
+.secondfivephototext{
+    color: white;
+    padding-left: 30px;
+}
+.thirdmainphoto{
+    width: 100%;
+}
+.thimainphotosize{
+    width: 100%;
+}
+.thirdimageiconsize{
+    height: 70px;
+}
+.thirdimageicondiv{
+    margin-top: -550px;
+}
+.thirdmainphototittle{
+    color: white;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-weight: 800;
+    font-size: 55px;
+}
+.thirdmainphototittlediv{
+    margin-left: 100px;
+    margin-top: 60px;
+}
+.thirdmainphotosecondtittle{
+    color: white;
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+    font-weight: bold;
+    font-size: 120px;
+    color: transparent;
+    text-align: 2px;
+    -webkit-text-stroke: 2px #FFFFFF;
+    letter-spacing: 2px;
+    padding-left: 100px;
+}
+.thirdmainphotosecondtittlediv{
+    margin-top: -20px;
+}
+.thirdmainphototirdtittle{
+    color: white;
+    font-size: 30px;
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+}
+.thirdmainphototirdtittlediv{
+    margin-left: 100px;
+}
+.firstbottontext{
+    color: white;
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+    line-height: 40px;
+    padding-left: 30px;
+}
+.firstbotton{
+    width: 200px;
+    height: 40px;
+    background-color: transparent;
+    border: 3px solid white;
+    margin-top: 30px;
+    margin-left: 100px;
+    position: relative;
+    font-weight: 700;
+}
+.firstbotton:hover{
+    background-color: white;
+}
+.firstbotton:hover .firstbottontext {
+    color: black;
+}
+.secondbottontext{
+    color: white;
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+    line-height: 40px;
+    padding-left: 30px;
+}
+.secondbotton{
+    width: 200px;
+    height: 40px;
+    background-color: transparent;
+    border: 3px solid white;
+    margin-top: -45px;
+    margin-left: 350px;
+    position: relative;
+    font-weight: 700;
+}
+.secondbotton:hover{
+    background-color: white;
+}
+.secondbotton:hover .secondbottontext{
+    color: black;
+}
+.fourthmainphoto{
+    margin-top: 100px;
+}
+.secondmainphotosize{
+    width: 100%;
+}
+.fourthmaintextdiv{
+    margin-top: -520px;
+}
+.fourthmaintext{
+    color: white;
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+    font-size: 80px;
+    font-weight: 900;
+    margin-left: 50px; 
+}
+.fourthsecondtext{
+    color: white;
+    font-size: 25px;
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+}
+.fourthsecondtextdiv{
+    margin-left: 55px;
+    margin-top: -10px;
+}
+.fourthrhhirdtext{
+    color: white;
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+    line-height: 40px;
+    padding-left: 40px;
+    font-weight: 900;
+}
+.fourththirdtextdiv{
+    width: 200px;
+    height: 40px;
+   margin-left: 60px;
+   margin-top: 40px;
+   position: absolute;
+   border: 3px solid white;
+}
+.fourththirdtextdiv:hover{
+    background-color: white;
+}
+.fourththirdtextdiv:hover .fourthrhhirdtext{
+    color: black;
+}
+.fivethfirstimage{
+    width: 50%;
+    margin-top: 384px;
+}
+.fivethddirstimagesize{
+    height: 600px;
+}
+.fivethsecondimage{
+    width: 664px;
+    height: 615.5px;
+    background-color: black;
+    margin-left: 685px;
+    margin-top: -400px;
+    background-color: black;
+}
+.fivethdsecondimagesize{
+    height: 601px;
+    margin-top: 18px;
+    margin-left: 351px;
+}
+.fivethfiestimagetxt2{
+    color: black;
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+    font-size: 60px;
+    font-weight: 600;
+}
+.fivethfiestimagetxt{
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+}
+.fivethfiestimagetxtdiv{
+    margin-top: -520px;
+    margin-left: 120PX;
+}
+.fivethfirstimagetxt3{
+    color: black;
+    padding-left: 120px;
+    font-size: 19px;
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+    line-height: 30px;
+    font-weight: 549.5;
+    padding-top: 20px;
+}
+.fivethfirstimagetxt4{
+    color: black;
+    font-weight: 650;
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+    padding-left: 120px;
+}
+.fivethfirstimagetxtdiv3{
+    margin-top: 20px;
+}
+.fivethfirstimagetxt4:hover{
+    color: orangered;
+}
+.fivethmainseccondimagetxt1{
+    color: white;
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+}
+.fivethmainseccondimagetxtdiv{
+    margin-top: -520px;
+    margin-left: 100px;
+}
+.fivethmainseccondimagetxt2{
+    color: white;
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+    font-size: 60px;
+    font-weight: 600;
+}
+.fivethmainseccondimagetxt3{
+    color: white;
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+    line-height: 30px;
+    font-weight: 549.5;
+    padding-top: 20px;
+    padding-left: 100px;
+    font-size: 19px;
+}
+.fivethmainseccondimagetxt4{
+    color: white;
+}
+.fivethmainseccondimagetxtdiv2{
+    margin-top: 10px;
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+    margin-left: 100px;
+    font-weight: 650;
+    line-height: 50px;
+}
+.fivethmainseccondimagetxt4:hover{
+    color: orangered;
+}
+.fourthmainphotoandtittilesdiv{
+    width: 100%;
+    height: 850px;
+    background-color: white;
+}
+.fourthmainphotoandtittile1{
+    color: black;
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+    margin-left: 425px;
+    font-size: 50px;
+    font-weight: 600;
+}
+.fourthmainphotoandtittilesdiv1{
+    padding-top: 100px;
+}
+.fourthmainfirstphoto{
+    height: 350px;
+    padding-left: 120px;
+    padding-top: 20px;
+}
+.fourthmainfirstphototext1{
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+}
+.fourthmainfirstphototext2{
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+    font-weight: 800;
+    font-size: 12px;
+    color: orangered;
+}
+.fourthmainfirstphototext1div{
+    margin-left: 120px;
+    margin-top: 15px;
+}
+.fourthmainfirstphoto2{
+    height: 350px;
+    padding-left: 520px;
+    padding-top: 20px;
+}
+.fourthmainthreephotosfirstphotodiv2{
+    margin-top: -425px;
+}
+.fourthmainfirstphototext3{
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+}
+.fourthmainfirstphototext4{
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+    font-weight: 800;
+    font-size: 12px;
+    color: orangered;
+}
+.fourthmainfirstphototext1div1{
+    margin-left: 520px;
+    margin-top: 20px;
+}
+.fourthmainfirstphoto3{
+    height: 350px;
+    padding-left: 915px;
+}
+.fourthmainthreephotosfirstphotodiv3{
+    margin-top: -410px;
+}
+.fourthmainfirstphototext5{
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+}
+.fourthmainfirstphototext6{
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+    font-weight: 800;
+    font-size: 12px;
+    color: orangered;
+}
+.fourthmainfirstphototext1div2{
+    margin-left: 915px;
+    margin-top: 20px;
+}
+.bottontext{
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+    font-weight: 700;
+    padding-left: 42px;
+    line-height: 43px;
+}
+.fourthbotton{
+    width: 190px;
+    height: 45px;
+    background-color:white;
+    margin-top: 130px;
+    margin-left: 600px;
+    border: 3px solid black;
+}
+.fourthbotton:hover{
+    background-color: black;
+}
+.fourthbotton:hover .bottontext{
+    color: white;
+}
+.fivethphotodiv{
+    width: 100%;
+}
+.fivethphotoinner{
+background-color: transparent;
+margin-top: -600px;
+height: 400px;
+}
+.fivethphotoinnerdiv{
+    margin-top: -320px;
+    margin-left: 200px;
+}
+.fivethphotoinnertext{
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 35px;
+}
+.fivethphotoinnertextdiv{
+    margin-left: 350px;
+    margin-top: -60px;
+}
+.space{
+    padding-left: 70px;
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 35px;
+}
+.fivethbottontext{
+    color: black;
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+    padding-left: 60px;
+    line-height: 50px;
+    font-weight: 700;
+}
+.fivethbotton{
+    width: 180px;
+    height: 45px;
+    margin-left: 550px;
+    border: 3px solid black;
+    margin-top: 500px;
+    position: absolute;
+    margin-top: 40px;
+}
+.fivethbotton:hover{
+    background-color: black;
+}
+.fivethbotton:hover .fivethbottontext{
+    color: white;
+}
+.lastmainimage{
+    width: 100%;
+}
+.lastimages{
+    margin-top: 150px;
+}
+.lastmainimagetext1{
+    color: white;
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+}
+.lastmainimagetext2{
+    color: white;
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+}
+.lastmainimagetextdiv{
+    margin-top: -700px;
+    margin-left: 500px;
+}
+.goods{
+    padding-left: 70px;
+    margin-top: -70px;
+}
+.bottonfind{
+    margin-top: -40px;
+}
+.searchspace2{
+    width: 700px;
+    height: 100px;
+    padding-top: 100px;
+    position: absolute;
+    margin-top: -200px;
+    
+}
+.search2{
+    width: 600px;
+    height: 200px;
+    margin-left: 450px;
+    margin-top: 150px;
+    position: absolute;
+}
+.esearchspace2{
+    width: 400px;
+    height: 40px;
+    margin-right: 300px;
+    padding-left: 60px;
+    font-size: 20px; 
+}
+.bottonfind{
+    width: 100px;
+    height: 35px;
+    background-color: black;
+    color: white;
+    font-weight: 700;
+}
+.bottonlast{
+    margin-top: -23px;
+    background-color: transparent;
+    margin-left: 350px;
+}
+.location{
+    color:black;
+    padding-left: 10px;
+}
+.locationdiv{
+    margin-top: -35px;
+}
+.footer{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    position: absolute;
+    margin-top: 210px;
+}
+.footerfirsttext{
+    color: white;
+    list-style-type: none;
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+}
+.one:hover{
+    color: orangered;
+}
+.two:hover{
+    color: orangered;
+}
+.three:hover{
+    color: orangered;
+}
+.four:hover{
+    color: orangered;
+}
+.footerfirsttextdev{
+    margin-top: 100px;
+    margin-left: 90px;
+    line-height: 30px;
+}
+.footersecondtext{
+    list-style-type: none;
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+    color: white;
+}
+.secondone:hover{
+    color: orangered;
+}
+.secondtwo:hover{
+    color: orangered;
+}
+.secondthree:hover{
+    color: orangered;
+}
+.footersecondtextdev{
+    margin-top: -120px;
+    margin-left: 250px;
+    line-height: 30px;
+}
+.footerthirdtext{
+    list-style-type: none;
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+    color: white;
+}
+.footerthirdtextdev{
+    margin-top: -120px;
+    margin-left: 450px;
+    line-height: 30px;
+}
+/* .footerthirdtext:hover{ */
+    /* color: orangered; */
+/* } */
+.thirdone:hover{
+    color: orangered;
+}
+.thirdtwo:hover{
+    color: orangered;
+}
+.thirdthree:hover{
+    color: orangered;
+}
+.thirdfour:hover{
+    color: orangered;
+}
+.thirdfive:hover{
+    color: orangered;
+}
+.footerlastdowntext{
+    list-style-type: none;
+    display: flex;
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+    font-size: 11px;
+    gap:10px;
+    color: white;
+}
+.lastone:hover{
+    color: orangered;
+}
+.lasttwo:hover{
+    color: orangered;
+}
+.lastthree:hover{
+    color: orangered;
+}
+.footerlastdowntexdiv{
+    margin-top: 50px;
+    margin-left: 90px;
+}
+.down{
+    padding-top: 10px;
+    list-style-type: none;
+    font-size: 11px;
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+    color: white;
+}
+.down:hover{
+    color: orangered;
+}
+.downdiv{
+    margin-left: 40px;
+}
+.downphoto{
+    margin-left: 900px;
+    margin-top: -150px;
+}
+.downlogosize{
+    height: 90px;
+}
+.downoikaslogo{
+    margin-left: 1030px;
+    margin-top: -200px;
+}
+.contactdiv{
+    width: 150px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 1060px;
+    border: 3px solid white;
+    position: absolute;
+}
+.contacttext{
+    color: white;
+    font-family: 'Arail Black', 'Helvetica', sans-serif;
+    font-weight: 800;
+    padding-left: 15px;
+    line-height: 35px;
+}
+.contactdiv:hover{
+    background-color: white;
+}
+.contactdiv:hover .contacttext{
+    color: black;
+}
+.facebook{
+    color:white;
+}
+.facebookdiv{
+    margin-left:1070px;
+    margin-top: 98px;
+}
+.instagramdiv{
+    margin-left:1110px;
+    margin-top: -25px;
+}
+.instagram{
+    color: white;
+}
+.tiktok{
+    color: white;
+}
+.tiktokdiv{
+    margin-left:1150px;
+    margin-top: -25px;
+}
+.youtube{
+    color: white;
+}
+.youtubediv{
+    margin-left:1190px;
+    margin-top: -25px;
+}
